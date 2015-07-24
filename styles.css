@@ -1,0 +1,10 @@
+body {
+
+}
+input[type=range] {
+  display: block;
+  width: 300px;
+}
+#viz {
+  width: 300px;
+}
